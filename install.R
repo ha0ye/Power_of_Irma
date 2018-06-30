@@ -1,0 +1,6 @@
+install.packages("dplyr")
+install.packages("plyr")
+install.packages("tidyr")
+install.packages("ggplot2")
+install.packages("lubridate")
+install.packages("mass")
